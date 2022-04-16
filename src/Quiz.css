@@ -1,0 +1,44 @@
+.quiz-container {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: -10%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 15%;
+  overflow: hidden;
+  /* width: 100%; */
+}
+
+/* @media (min-width: 500px) {
+  .content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%; */
+/* overflow: hidden; */
+/* width: 100%; */
+/* font-size: 4px; */
+/* margin-top: 30%; */
+/* margin-bottom: -20%; */
+/* margin-top: 10%; */
+/* } */
+/* .content > h3 {
+    font-size: 20px;
+  } */
+/* } */
